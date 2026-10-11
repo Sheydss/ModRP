@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "sss",
+    "s s"
+  ],
+  "key": {
+    "s": {
+      "item": "modrp:steal_ingot"
+    }
+  },
+  "result": {
+    "id": "modrp:steal_helmet",
+    "count": 1
+  }
+}

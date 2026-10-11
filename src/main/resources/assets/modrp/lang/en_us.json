@@ -1,0 +1,8 @@
+{
+  "itemGroup.mod-rp": "modrp",
+  "item.modrp.suspicious_powder" : "suspicious powder",
+  "item.modrp.steal_ingot" : "steal ingot",
+  "item.modrp.steal_pickaxe" : "steal pickaxe",
+  "item.modrp.steal_helmet" : "steal helmet",
+  "block.modrp.steal_block" : "steal block"
+}

@@ -11,13 +11,13 @@
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
-      "com.gihub.sheyd.modrp.client.ModrpDataGenerator"
+      "com.github.sheyd.modrp.client.ModrpDataGenerator"
     ],
     "client": [
-      "com.gihub.sheyd.modrp.client.ModrpClient"
+      "com.github.sheyd.modrp.client.ModrpClient"
     ],
     "main": [
-      "com.gihub.sheyd.modrp.Modrp"
+      "com.github.sheyd.modrp.Modrp"
     ]
   },
   "mixins": [

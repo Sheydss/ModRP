@@ -1,4 +1,4 @@
-package com.gihub.sheyd.modrp.client;
+package com.github.sheyd.modrp.client;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
